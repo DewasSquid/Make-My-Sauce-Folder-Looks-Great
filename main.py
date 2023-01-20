@@ -39,10 +39,10 @@ def set_exif_keywords(file: str, keywords: list):
         )
 
 def get_exif_keywords(file: str):
-        """get the keywords of the file"""
-        with ExifToolHelper() as et:
-            for d in et.get_tags(file, tags=["Keywords"]):
-                return d["IPTC:Keywords"]
+    """get the keywords of the file"""
+    with ExifToolHelper() as et:
+        for d in et.get_tags(file, tags=["Keywords"]):
+            return d["IPTC:Keywords"]
 
 # Main part of the code
 class Main():
