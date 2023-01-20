@@ -1,0 +1,4 @@
+Pillow==9.4.0
+PyExifTool==0.5.5
+pygelbooru==0.5.0
+saucenao_api==2.4.0
