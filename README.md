@@ -3,7 +3,7 @@ Rename all images in a NSFW folder by their respective Gelbooru tags using [pyGe
 
 ## How to use it ?
 - Download this repo.
-- Install everything from requirements.txt : `pip install -r requirements.txt`
+- Install all dependencies used in the project : `pip install -r requirements.txt`
 - Edit the file `config.py` :
     - [Get your SAUCENAO API key](https://saucenao.com/user.php)
     - (*Optional*) [Get your Gelbooru API key](https://gelbooru.com/index.php?page=account&s=home)
