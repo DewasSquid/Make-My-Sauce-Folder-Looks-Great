@@ -1,5 +1,5 @@
 # Make-My-Sauce-Folder-Looks-Great
-Rename all images in a NSFW folder by their respective Gelbooru tags using [pyGelbooru](https://github.com/rainyDayDevs/pygelbooru) and [SauceNao API](https://github.com/nomnoms12/saucenao_api).
+Rename all images in a folder by their respective Gelbooru tags using [pyGelbooru](https://github.com/rainyDayDevs/pygelbooru) and [SauceNao API](https://github.com/nomnoms12/saucenao_api).
 
 ## How to use it ?
 - Download this repo.
